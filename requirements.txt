@@ -1,7 +1,7 @@
 # requirments.txt
 snowflake-snowpark-python
 streamlit
-Requests
+requests
 
 #name: app_environment
 #channels:
